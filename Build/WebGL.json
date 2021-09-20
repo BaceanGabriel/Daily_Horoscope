@@ -1,6 +1,6 @@
 {
-"companyName": "DaylyCompany",
-"productName": "Daily Horoscope",
+"companyName": "Robloking",
+"productName": "Robloking",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
